@@ -1,4 +1,4 @@
-# gpu-burn
+# GPUS Stress Test
 Multi-GPU CUDA stress test
 http://wili.cc/blog/gpu-burn.html
 
