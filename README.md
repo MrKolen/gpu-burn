@@ -6,4 +6,4 @@ Operation:
 1. git clone https://github.com/MrKolen/gpu-burn.git
 2. cd gpu-burn
 3. make
-4. time ./gpu burn 123456
+4. time ./gpu_burn 123456
